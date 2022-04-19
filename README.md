@@ -21,6 +21,7 @@
     - 什么都会一点，什么都不太会
 - 正在使用  
     - [![](https://img.shields.io/badge/Windows10-1C86EE?style=flat-square&logo=windows&logoColor=white)](https://www.microsoft.com/zh-cn/windows)
+    [![](https://img.shields.io/badge/Debian-B23AEE?style=flat-square&logo=Debian&logoColor=white)](https://www.debian.org/)
     - [![](https://img.shields.io/badge/git-11D054?style=flat-square&logo=git)](https://git-scm.com/)
     [![](https://img.shields.io/badge/vsCode-0574C0?style=flat-square&logo=visualstudiocode&logoColor=12D8FF)](https://code.visualstudio.com/)
     - [![](https://img.shields.io/badge/pycharm-36BA02?style=flat-square&logo=pycharm&logoColor=black)](https://www.jetbrains.com/pycharm/)
