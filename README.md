@@ -8,7 +8,7 @@
 - 目前喜欢的事物
     - Japaese anime
     - Play games(Favor music game)
-        - [Arcaea](https://arcaea.lowiro.com/)、[Phigros](https://pigeon-games.com/phigros)、[BangDream](https://bang-dream-gbp-en.bushiroad.com/) etc
+        - [阿卡抑(Arcaea)](https://arcaea.lowiro.com/)、[屁股肉(Phigros)](https://pigeon-games.com/phigros)、[邦邦(BangDream)](https://bang-dream-gbp-en.bushiroad.com/) etc
     - All Interesting things  
     - Programing  
 
@@ -18,7 +18,8 @@
     - [![](https://img.shields.io/badge/iaimiHost-FF6EB4?style=plastic)](https://iaimi.info/)
     [![](https://img.shields.io/badge/Kirino的小站-CAFF70?style=plastic)](https://blog.iaimi.info/)
 - 编程习惯
-    - 什么都会一点，什么都不太会
+    - 面向Google
+    - 面向兴趣
 - 正在使用  
     - [![](https://img.shields.io/badge/Windows10-1C86EE?style=flat-square&logo=windows&logoColor=white)](https://www.microsoft.com/zh-cn/windows)
     [![](https://img.shields.io/badge/Debian-B23AEE?style=flat-square&logo=Debian&logoColor=white)](https://www.debian.org/)
