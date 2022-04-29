@@ -8,7 +8,7 @@
 - 目前喜欢的事物
     - Japaese anime
     - Play games(Favor music game)
-        - [阿卡抑(Arcaea)](https://arcaea.lowiro.com/)、[屁股肉(Phigros)](https://pigeon-games.com/phigros)、[邦邦(BangDream)](https://bang-dream-gbp-en.bushiroad.com/) etc
+        - [阿卡抑(Arcaea)目前主役](https://arcaea.lowiro.com/)、[屁股肉(Phigros)](https://pigeon-games.com/phigros)、[邦邦(BangDream)](https://bang-dream-gbp-en.bushiroad.com/) etc
     - All Interesting things  
     - Programing  
 
