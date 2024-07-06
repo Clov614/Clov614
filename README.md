@@ -1,6 +1,6 @@
 ### Hi there 👋
 <a href="https://zh.moegirl.org.cn/%E5%A5%A5%E5%8F%A4%E6%96%AF%E5%A1%94%C2%B7%E8%8A%99%E8%95%BE%E5%BE%B7%E5%88%A9%E5%98%89%C2%B7%E8%89%BE%E6%88%B4%E5%B0%94%E9%98%BF%E5%BE%B7%E5%8B%92" target="_blank">
-    <img align="right" src="Source/93593204_p0.png" width= 450px />  
+    <img align="right" src="Source/nina.png" width= 450px />  
 </a>  
 
 🍀是一名摸🐟的带学生 (运气不算太好)    
