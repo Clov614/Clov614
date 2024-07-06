@@ -20,6 +20,7 @@
 - 编程习惯
     - 面向Google
     - 面向兴趣
+    - 面向GPT
 - 正在使用  
     - [![](https://img.shields.io/badge/Windows10-1C86EE?style=flat-square&logo=windows&logoColor=white)](https://www.microsoft.com/zh-cn/windows)
     [![](https://img.shields.io/badge/Debian-B23AEE?style=flat-square&logo=Debian&logoColor=white)](https://www.debian.org/)
@@ -31,7 +32,7 @@
     [![](https://img.shields.io/badge/Python-1857BC?style=flat-square&logo=Python&logoColor=white)](https://www.python.org/)
     [![]()]()
 
-- 正在学习
+- 正在学习 (不学了)
     - [![](https://img.shields.io/badge/Java-DB0E33?style=flat-square&logo=Java&logoColor=white)](https://www.java.com/)
     [![](https://img.shields.io/badge/javascript-EFF50B?style=flat-square&logo=javascript&logoColor=black)](https://www.javascript.com/)
 
