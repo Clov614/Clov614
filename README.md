@@ -20,4 +20,17 @@
 </picture>
 
 
-![Metrics](/github-metrics.svg)
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <img src="/github-metrics.svg" alt="Metrics">
+    </td>
+    <td width="50%" valign="top">
+      <img src="https://github-readme-stats.vercel.app/api?username=Clov614&show_icons=true&theme=dracula" alt="GitHub Stats">
+      <br>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?theme=dracula&username=Clov614&hide=HTML,CSS" alt="Top Languages">
+      <br>
+      <img src="/Source/1.jpg" alt="like-img">
+    </td>
+  </tr>
+</table>
